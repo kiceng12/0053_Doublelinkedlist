@@ -162,3 +162,7 @@ void revtraverse()
 	}
 }
 
+void searchData()
+{
+
+}
